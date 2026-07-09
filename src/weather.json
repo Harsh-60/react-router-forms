@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "city": "Delhi",
+    "temperature": 35,
+    "feelsLike": 38,
+    "humidity": 62,
+    "windSpeed": 6.5,
+    "aqi": 75,
+    "weather": "Sunny",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 35, "feelsLike": 37, "humidity": 60, "windSpeed": 5 },
+      { "day": "Tue", "temperature": 34, "feelsLike": 36, "humidity": 58, "windSpeed": 6 },
+      { "day": "Wed", "temperature": 33, "feelsLike": 35, "humidity": 61, "windSpeed": 4 },
+      { "day": "Thu", "temperature": 36, "feelsLike": 39, "humidity": 65, "windSpeed": 5 },
+      { "day": "Fri", "temperature": 37, "feelsLike": 40, "humidity": 67, "windSpeed": 6 },
+      { "day": "Sat", "temperature": 35, "feelsLike": 38, "humidity": 62, "windSpeed": 5 },
+      { "day": "Sun", "temperature": 34, "feelsLike": 36, "humidity": 60, "windSpeed": 4 }
+    ]
+  },
+  {
+    "id": 2,
+    "city": "Mumbai",
+    "temperature": 30,
+    "feelsLike": 33,
+    "humidity": 82,
+    "windSpeed": 5.4,
+    "aqi": 60,
+    "weather": "Rainy",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 30, "feelsLike": 33, "humidity": 82, "windSpeed": 5 },
+      { "day": "Tue", "temperature": 29, "feelsLike": 32, "humidity": 84, "windSpeed": 6 },
+      { "day": "Wed", "temperature": 31, "feelsLike": 34, "humidity": 81, "windSpeed": 5 },
+      { "day": "Thu", "temperature": 30, "feelsLike": 33, "humidity": 83, "windSpeed": 4 },
+      { "day": "Fri", "temperature": 29, "feelsLike": 32, "humidity": 85, "windSpeed": 6 },
+      { "day": "Sat", "temperature": 30, "feelsLike": 33, "humidity": 82, "windSpeed": 5 },
+      { "day": "Sun", "temperature": 31, "feelsLike": 34, "humidity": 80, "windSpeed": 4 }
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Kolkata",
+    "temperature": 33,
+    "feelsLike": 36,
+    "humidity": 70,
+    "windSpeed": 5.2,
+    "aqi": 82,
+    "weather": "Cloudy",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 33, "feelsLike": 36, "humidity": 70, "windSpeed": 5 },
+      { "day": "Tue", "temperature": 34, "feelsLike": 37, "humidity": 69, "windSpeed": 6 },
+      { "day": "Wed", "temperature": 32, "feelsLike": 35, "humidity": 72, "windSpeed": 5 },
+      { "day": "Thu", "temperature": 33, "feelsLike": 36, "humidity": 71, "windSpeed": 4 },
+      { "day": "Fri", "temperature": 34, "feelsLike": 37, "humidity": 70, "windSpeed": 5 },
+      { "day": "Sat", "temperature": 32, "feelsLike": 35, "humidity": 73, "windSpeed": 6 },
+      { "day": "Sun", "temperature": 33, "feelsLike": 36, "humidity": 71, "windSpeed": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "city": "Chennai",
+    "temperature": 36,
+    "feelsLike": 40,
+    "humidity": 78,
+    "windSpeed": 7,
+    "aqi": 68,
+    "weather": "Sunny",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 36, "feelsLike": 40, "humidity": 78, "windSpeed": 7 },
+      { "day": "Tue", "temperature": 37, "feelsLike": 41, "humidity": 77, "windSpeed": 6 },
+      { "day": "Wed", "temperature": 36, "feelsLike": 40, "humidity": 79, "windSpeed": 7 },
+      { "day": "Thu", "temperature": 35, "feelsLike": 39, "humidity": 80, "windSpeed": 6 },
+      { "day": "Fri", "temperature": 37, "feelsLike": 41, "humidity": 78, "windSpeed": 7 },
+      { "day": "Sat", "temperature": 36, "feelsLike": 40, "humidity": 79, "windSpeed": 6 },
+      { "day": "Sun", "temperature": 35, "feelsLike": 39, "humidity": 80, "windSpeed": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "city": "Bengaluru",
+    "temperature": 27,
+    "feelsLike": 29,
+    "humidity": 65,
+    "windSpeed": 3.8,
+    "aqi": 45,
+    "weather": "Pleasant",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 27, "feelsLike": 29, "humidity": 65, "windSpeed": 4 },
+      { "day": "Tue", "temperature": 28, "feelsLike": 30, "humidity": 64, "windSpeed": 3 },
+      { "day": "Wed", "temperature": 26, "feelsLike": 28, "humidity": 66, "windSpeed": 4 },
+      { "day": "Thu", "temperature": 27, "feelsLike": 29, "humidity": 65, "windSpeed": 5 },
+      { "day": "Fri", "temperature": 28, "feelsLike": 30, "humidity": 64, "windSpeed": 4 },
+      { "day": "Sat", "temperature": 27, "feelsLike": 29, "humidity": 65, "windSpeed": 3 },
+      { "day": "Sun", "temperature": 26, "feelsLike": 28, "humidity": 66, "windSpeed": 4 }
+    ]
+  },
+  {
+    "id": 6,
+    "city": "Hyderabad",
+    "temperature": 32,
+    "feelsLike": 35,
+    "humidity": 55,
+    "windSpeed": 4.5,
+    "aqi": 58,
+    "weather": "Sunny",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 32, "feelsLike": 35, "humidity": 55, "windSpeed": 4 },
+      { "day": "Tue", "temperature": 33, "feelsLike": 36, "humidity": 54, "windSpeed": 5 },
+      { "day": "Wed", "temperature": 31, "feelsLike": 34, "humidity": 56, "windSpeed": 4 },
+      { "day": "Thu", "temperature": 32, "feelsLike": 35, "humidity": 55, "windSpeed": 5 },
+      { "day": "Fri", "temperature": 33, "feelsLike": 36, "humidity": 54, "windSpeed": 4 },
+      { "day": "Sat", "temperature": 32, "feelsLike": 35, "humidity": 55, "windSpeed": 4 },
+      { "day": "Sun", "temperature": 31, "feelsLike": 34, "humidity": 56, "windSpeed": 5 }
+    ]
+  },
+  {
+    "id": 7,
+    "city": "Pune",
+    "temperature": 29,
+    "feelsLike": 31,
+    "humidity": 63,
+    "windSpeed": 3.9,
+    "aqi": 42,
+    "weather": "Cloudy",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 29, "feelsLike": 31, "humidity": 63, "windSpeed": 4 },
+      { "day": "Tue", "temperature": 30, "feelsLike": 32, "humidity": 62, "windSpeed": 3 },
+      { "day": "Wed", "temperature": 28, "feelsLike": 30, "humidity": 64, "windSpeed": 4 },
+      { "day": "Thu", "temperature": 29, "feelsLike": 31, "humidity": 63, "windSpeed": 5 },
+      { "day": "Fri", "temperature": 30, "feelsLike": 32, "humidity": 62, "windSpeed": 4 },
+      { "day": "Sat", "temperature": 29, "feelsLike": 31, "humidity": 63, "windSpeed": 3 },
+      { "day": "Sun", "temperature": 28, "feelsLike": 30, "humidity": 64, "windSpeed": 4 }
+    ]
+  },
+  {
+    "id": 8,
+    "city": "Jaipur",
+    "temperature": 38,
+    "feelsLike": 41,
+    "humidity": 40,
+    "windSpeed": 6,
+    "aqi": 90,
+    "weather": "Hot",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 38, "feelsLike": 41, "humidity": 40, "windSpeed": 6 },
+      { "day": "Tue", "temperature": 39, "feelsLike": 42, "humidity": 39, "windSpeed": 5 },
+      { "day": "Wed", "temperature": 37, "feelsLike": 40, "humidity": 41, "windSpeed": 6 },
+      { "day": "Thu", "temperature": 38, "feelsLike": 41, "humidity": 40, "windSpeed": 5 },
+      { "day": "Fri", "temperature": 39, "feelsLike": 42, "humidity": 39, "windSpeed": 6 },
+      { "day": "Sat", "temperature": 38, "feelsLike": 41, "humidity": 40, "windSpeed": 5 },
+      { "day": "Sun", "temperature": 37, "feelsLike": 40, "humidity": 41, "windSpeed": 6 }
+    ]
+  },
+  {
+    "id": 9,
+    "city": "Lucknow",
+    "temperature": 34,
+    "feelsLike": 37,
+    "humidity": 58,
+    "windSpeed": 4.8,
+    "aqi": 70,
+    "weather": "Sunny",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 34, "feelsLike": 37, "humidity": 58, "windSpeed": 5 },
+      { "day": "Tue", "temperature": 35, "feelsLike": 38, "humidity": 57, "windSpeed": 4 },
+      { "day": "Wed", "temperature": 33, "feelsLike": 36, "humidity": 59, "windSpeed": 5 },
+      { "day": "Thu", "temperature": 34, "feelsLike": 37, "humidity": 58, "windSpeed": 4 },
+      { "day": "Fri", "temperature": 35, "feelsLike": 38, "humidity": 57, "windSpeed": 5 },
+      { "day": "Sat", "temperature": 34, "feelsLike": 37, "humidity": 58, "windSpeed": 4 },
+      { "day": "Sun", "temperature": 33, "feelsLike": 36, "humidity": 59, "windSpeed": 5 }
+    ]
+  },
+  {
+    "id": 10,
+    "city": "Ahmedabad",
+    "temperature": 37,
+    "feelsLike": 40,
+    "humidity": 45,
+    "windSpeed": 5.5,
+    "aqi": 80,
+    "weather": "Sunny",
+    "weeklyForecast": [
+      { "day": "Mon", "temperature": 37, "feelsLike": 40, "humidity": 45, "windSpeed": 5 },
+      { "day": "Tue", "temperature": 38, "feelsLike": 41, "humidity": 44, "windSpeed": 6 },
+      { "day": "Wed", "temperature": 36, "feelsLike": 39, "humidity": 46, "windSpeed": 5 },
+      { "day": "Thu", "temperature": 37, "feelsLike": 40, "humidity": 45, "windSpeed": 6 },
+      { "day": "Fri", "temperature": 38, "feelsLike": 41, "humidity": 44, "windSpeed": 5 },
+      { "day": "Sat", "temperature": 37, "feelsLike": 40, "humidity": 45, "windSpeed": 6 },
+      { "day": "Sun", "temperature": 36, "feelsLike": 39, "humidity": 46, "windSpeed": 5 }
+    ]
+  }
+]
